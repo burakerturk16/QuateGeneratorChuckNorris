@@ -1,0 +1,66 @@
+.main-div {
+    width: 400px;
+    height: auto;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.28644961402529767) 0%, rgba(0,0,0,0.28644961402529767) 0%, rgba(0,0,0,0.28644961402529767) 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,0.28644961402529767) 26%, rgba(49,243,159,0.7122199221485469) 50%, rgba(0,0,0,0.28644961402529767) 57%, rgba(1,1,4,1) 97%, rgba(4,6,21,1) 100%, rgba(38,58,186,1) 100%);
+    border-radius: 20px;
+    padding: 15px;
+    margin-top:1rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.header-div {
+    text-align: center;
+}
+.chuck-head {
+    cursor: pointer;
+}
+.chuck {
+    margin-top: 1rem;
+    text-align: center;
+    
+}
+
+#click-button {
+    width: 200px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 15px;
+    border: 2px solid blue;
+}
+
+#twitter-button{
+    border: 5px solid #f1f1f1;
+    background: rgb(0, 204, 255);
+    padding :7px 8px 10px 8px;
+    border-radius: 7px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+  }
+  a {
+      text-decoration: none;
+  }
+  a:hover
+  {
+    background: rgb(0, 214, 333);
+  }
+  body{
+    background: rgb(38,178,186);
+    background: linear-gradient(90deg, rgba(38,178,186,0.4881302862942052) 46%, rgba(4,6,21,1) 100%); 
+  }
+
+  #jokes
+  {
+      font-size: 20px;
+      color:white;
+      
+  }
+ i{
+     color: black;
+     padding: 5px;
+ }
